@@ -45,7 +45,7 @@ skinparam rectangle<<boundary_red>> {
     StereotypeFontSize 0
     FontColor #444444
     BorderColor #fc0303
-    BorderStyle dashed
+    BorderStyle solid
 }
 
 ' Layout
